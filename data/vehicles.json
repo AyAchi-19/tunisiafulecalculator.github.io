@@ -1,0 +1,270 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "rank": 5,
+      "brand": "Toyota",
+      "model": "Hiace",
+      "type": "Van",
+      "engine": "2.7L 4-cylinder",
+      "fuel_consumption": {
+        "city": 8.5,
+        "highway": 7.0,
+        "combined": 7.6
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Toyota_Hiace_Super_GL_2013_%2814215675754%29.jpg/1200px-Toyota_Hiace_Super_GL_2013_%2814215675754%29.jpg"
+    },
+    {
+      "id": 2,
+      "rank": 4,
+      "brand": "Kia",
+      "model": "Picanto",
+      "type": "City Car",
+      "engine": "1.0L MPI",
+      "fuel_consumption": {
+        "city": 5.5,
+        "highway": 4.0,
+        "combined": 4.6
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2018_Kia_Picanto_%28JA%29_S_3-door_hatchback_%282018-08-06%29_01.jpg"
+    },
+    {
+      "id": 3,
+      "rank": 3,
+      "brand": "Hyundai",
+      "model": "i20",
+      "type": "Hatchback",
+      "engine": "1.2L Kappa",
+      "fuel_consumption": {
+        "city": 6.2,
+        "highway": 4.8,
+        "combined": 5.3
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hyundai_i20_%28BC3%29_1.4_MPi_Classic_front_20100919.jpg"
+    },
+    {
+      "id": 4,
+      "rank": 2,
+      "brand": "Kia",
+      "model": "Rio SP",
+      "type": "Subcompact",
+      "engine": "1.4L MPI",
+      "fuel_consumption": {
+        "city": 6.8,
+        "highway": 5.2,
+        "combined": 5.9
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/2018_Kia_Rio_%28YB%29_S_5-door_hatchback_%282018-08-06%29_01.jpg"
+    },
+    {
+      "id": 5,
+      "rank": 1,
+      "brand": "Hyundai",
+      "model": "Grand i10",
+      "type": "City Car",
+      "engine": "1.0L Kappa",
+      "fuel_consumption": {
+        "city": 5.9,
+        "highway": 4.5,
+        "combined": 5.1
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hyundai_Grand_i10_%28AA%29_1.0_MPi_Classic_front_20141003.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Peugeot",
+      "model": "Partner",
+      "type": "Van",
+      "engine": "1.6L HDi",
+      "fuel_consumption": {
+        "city": 7.2,
+        "highway": 5.8,
+        "combined": 6.4
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Peugeot_Partner_III_%28K9%29_1.6_HDi_625_L_Enterprise_van_%282022-03-20%29_01.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "Fiat",
+      "model": "Doblò",
+      "type": "Van",
+      "engine": "1.6L Multijet",
+      "fuel_consumption": {
+        "city": 6.9,
+        "highway": 5.5,
+        "combined": 6.1
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fiat_Dobl%C3%B2_1.3_Multijet_ETC_Combi_%28Facelift%29_%E2%80%93_Frontansicht%2C_6._April_2014%2C_M%C3%BCnster.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Peugeot",
+      "model": "206",
+      "type": "Compact Car",
+      "engine": "1.4L TU3",
+      "fuel_consumption": {
+        "city": 7.8,
+        "highway": 5.6,
+        "combined": 6.5
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Peugeot_206_HDi_Front_20090415.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "Volkswagen",
+      "model": "Passat",
+      "type": "Family Sedan",
+      "engine": "1.8L TSI",
+      "fuel_consumption": {
+        "city": 8.9,
+        "highway": 6.1,
+        "combined": 7.2
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/VW_Passat_B8_Limousine_2.0_TDI_Highline.JPG"
+    },
+    {
+      "id": 10,
+      "brand": "Renault",
+      "model": "Clio",
+      "type": "Supermini",
+      "engine": "1.2L TCe",
+      "fuel_consumption": {
+        "city": 6.3,
+        "highway": 4.7,
+        "combined": 5.3
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Renault_Clio_IV_Phase_II_%28front%29.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "Dacia",
+      "model": "Sandero",
+      "type": "Subcompact",
+      "engine": "0.9L TCe",
+      "fuel_consumption": {
+        "city": 6.1,
+        "highway": 4.5,
+        "combined": 5.1
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dacia_Sandero_III_Stepway_1.0_ECO-G_%28front%29.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Opel",
+      "model": "Corsa",
+      "type": "City Car",
+      "engine": "1.2L ECOTEC",
+      "fuel_consumption": {
+        "city": 6.4,
+        "highway": 4.8,
+        "combined": 5.4
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Opel_Corsa_F_1.2_EDITION_%28front%29.jpg"
+    },
+    {
+      "id": 13,
+      "brand": "Ford",
+      "model": "Fiesta",
+      "type": "Supermini",
+      "engine": "1.0L EcoBoost",
+      "fuel_consumption": {
+        "city": 6.0,
+        "highway": 4.6,
+        "combined": 5.2
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ford_Fiesta_ST-Line_X_1.0_EcoBoost_%28front%29.jpg"
+    },
+    {
+      "id": 14,
+      "brand": "Fiat",
+      "model": "Panda",
+      "type": "City Car",
+      "engine": "1.2L FIRE",
+      "fuel_consumption": {
+        "city": 5.8,
+        "highway": 4.3,
+        "combined": 4.9
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Fiat_Panda_1.2_Easy_%28III%29_%E2%80%93_Frontansicht%2C_6._M%C3%A4rz_2012%2C_D%C3%BCsseldorf.jpg"
+    },
+    {
+      "id": 15,
+      "brand": "Dacia",
+      "model": "Logan",
+      "type": "Compact Sedan",
+      "engine": "1.0L SCe",
+      "fuel_consumption": {
+        "city": 6.7,
+        "highway": 4.9,
+        "combined": 5.6
+      },
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Dacia_Logan_MCV_1.5_dCi_Laureate_%28III%29_%E2%80%93_Frontansicht%2C_24._M%C3%A4rz_2018%2C_D%C3%BCsseldorf.jpg"
+    },
+    {
+      "id": 16,
+      "brand": "Renault",
+      "model": "Duster",
+      "type": "SUV",
+      "engine": "1.5L dCi",
+      "fuel_consumption": {
+        "city": 6.8,
+        "highway": 5.2,
+        "combined": 5.9
+      },
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": 17,
+      "brand": "Suzuki",
+      "model": "Vitara",
+      "type": "SUV",
+      "engine": "1.4L Boosterjet",
+      "fuel_consumption": {
+        "city": 7.1,
+        "highway": 5.8,
+        "combined": 6.3
+      },
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": 18,
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "type": "SUV",
+      "engine": "1.3L DIG-T",
+      "fuel_consumption": {
+        "city": 7.4,
+        "highway": 6.0,
+        "combined": 6.6
+      },
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": 19,
+      "brand": "Peugeot",
+      "model": "301",
+      "type": "Compact Sedan",
+      "engine": "1.2L PureTech",
+      "fuel_consumption": {
+        "city": 6.9,
+        "highway": 4.8,
+        "combined": 5.6
+      },
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": 20,
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "type": "Supermini",
+      "engine": "1.0L TSI",
+      "fuel_consumption": {
+        "city": 6.2,
+        "highway": 4.7,
+        "combined": 5.3
+      },
+      "image": "/placeholder.svg"
+    }
+  ]
+}
+
